@@ -1,0 +1,2 @@
+[Potential ARP spoofing]: ip:10.0.0.1, old:00:02:B3:12:34:02, new:00:02:B3:12:23:03
+Analyzed 18 packets, 1072 bytes
